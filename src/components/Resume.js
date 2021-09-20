@@ -11,6 +11,18 @@ function Resume() {
           <br></br>
           <a href="https://www.linkedin.com/in/renu-k/">My LinkedIn</a>
         </div>
+          <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>React</li>
+                <li>JavaScript</li>
+                <li>Node.js</li>
+                <li>Express.js</li>
+                <li>Sequelize</li>
+                <li>MongoDB</li>
+                <li>MySQL</li>
+                <li>Mongoose</li>
+          </ul>
       </div>
     )
 }
