@@ -1,27 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.508361a3.chunk.css",
-    "main.js": "/static/js/main.2a45dc9d.chunk.js",
-    "main.js.map": "/static/js/main.2a45dc9d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bf08e299.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bf08e299.js.map",
-    "static/js/2.baaa0c1c.chunk.js": "/static/js/2.baaa0c1c.chunk.js",
-    "static/js/2.baaa0c1c.chunk.js.map": "/static/js/2.baaa0c1c.chunk.js.map",
-    "static/js/3.c5e5ecfd.chunk.js": "/static/js/3.c5e5ecfd.chunk.js",
-    "static/js/3.c5e5ecfd.chunk.js.map": "/static/js/3.c5e5ecfd.chunk.js.map",
+    "main.css": "/static/css/main.d357c1ec.chunk.css",
+    "main.js": "/static/js/main.35253020.chunk.js",
+    "main.js.map": "/static/js/main.35253020.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.36ddc5d4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.36ddc5d4.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.09686b4e.chunk.js": "/static/js/2.09686b4e.chunk.js",
+    "static/js/2.09686b4e.chunk.js.map": "/static/js/2.09686b4e.chunk.js.map",
+    "static/js/3.70b00843.chunk.js": "/static/js/3.70b00843.chunk.js",
+    "static/js/3.70b00843.chunk.js.map": "/static/js/3.70b00843.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.508361a3.chunk.css.map": "/static/css/main.508361a3.chunk.css.map",
-    "static/js/2.baaa0c1c.chunk.js.LICENSE.txt": "/static/js/2.baaa0c1c.chunk.js.LICENSE.txt",
+    "static/css/2.d8cb5cde.chunk.css.map": "/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.d357c1ec.chunk.css.map": "/static/css/main.d357c1ec.chunk.css.map",
+    "static/js/2.09686b4e.chunk.js.LICENSE.txt": "/static/js/2.09686b4e.chunk.js.LICENSE.txt",
     "static/media/Renu-CV.91089609.pdf": "/static/media/Renu-CV.91089609.pdf",
     "static/media/The GoodVice Blog.40db0b6e.gif": "/static/media/The GoodVice Blog.40db0b6e.gif",
+    "static/media/The Kara-OK Corral.aef25285.gif": "/static/media/The Kara-OK Corral.aef25285.gif",
     "static/media/me.e6ec0451.jpeg": "/static/media/me.e6ec0451.jpeg",
     "static/media/note-takr.5c9780fc.png": "/static/media/note-takr.5c9780fc.png",
     "static/media/password-gen.e871c1b8.gif": "/static/media/password-gen.e871c1b8.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf08e299.js",
-    "static/js/2.baaa0c1c.chunk.js",
-    "static/css/main.508361a3.chunk.css",
-    "static/js/main.2a45dc9d.chunk.js"
+    "static/js/runtime-main.36ddc5d4.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.09686b4e.chunk.js",
+    "static/css/main.d357c1ec.chunk.css",
+    "static/js/main.35253020.chunk.js"
   ]
 }
